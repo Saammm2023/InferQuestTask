@@ -1,0 +1,16 @@
+Date,Transaction ID,Customer,Item,Quantity,Price,Total,Payment_Method,Store_Location
+2025-01-01,T001,John Doe,Notebook,3,50,150,Credit Card,New York
+2025-01-01,T002,Alice Smith,Pencil,10,5,50,Cash,Chicago
+2025-01-01,T003,Bob Johnson,Eraser,5,10,50,Credit Card,Los Angeles
+2025-01-02,T004,Jane Doe,Pen,4,20,80,Debit Card,Houston
+2025-01-02,T005,Chris Evans,Backpack,1,500,500,Cash,Miami
+2025-01-02,T006,Nina Singh,Notebook,2,50,100,UPI,Boston
+2025-01-03,T007,Tom Holland,Highlighter,6,15,90,Credit Card,San Francisco
+2025-01-03,T008,Emma Stone,Marker,3,25,75,Debit Card,Seattle
+2025-01-04,T009,Robert Downey Jr.,Ruler,5,12,60,Cash,Atlanta
+2025-01-04,T010,Scarlett Johansson,Glue,4,30,120,Credit Card,Denver
+2025-01-05,T011,Will Smith,Stapler,1,200,200,UPI,Phoenix
+2025-01-05,T012,Jennifer Lopez,Tape,3,40,120,Credit Card,Las Vegas
+2025-01-06,T013,Brad Pitt,Folder,2,80,160,Debit Card,Detroit
+2025-01-06,T014,Angelina Jolie,Paper,10,2,20,Cash,Orlando
+2025-01-07,T015,Keanu Reeves,Scissors,1,150,150,UPI,Portland
